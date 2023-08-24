@@ -1,6 +1,6 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-#  Eae, Bem vindo a Rapeize
+#  Eae, Bem vindo ae Rapeize
   <div id="badges">
   <a href = "https://www.linkedin.com/in/lucas-reis-8288531a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
