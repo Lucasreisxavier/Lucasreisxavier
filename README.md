@@ -2,18 +2,16 @@
 
 #  Eae, Bem vindo a Rapeize
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://github.com/Lucasreisxavier">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 Sou desenvolvedor Full-stack porem Amante de Back-end, sempre tentando criar uma solução para coisas que nem problema são
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- Amante de novas tecnologias
+- Fã de jogos online
+- Aprendendo algo sobre Dados
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,6 +26,6 @@ Sou desenvolvedor Full-stack porem Amante de Back-end, sempre tentando criar uma
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasreisxavier&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Lucasreisxavier&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
