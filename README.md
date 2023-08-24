@@ -26,6 +26,6 @@ Sou desenvolvedor Full-stack porem Amante de Back-end, sempre tentando criar uma
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasreisxavier&show_icons=true&theme=dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Lucasreisxavier&show_icons=true&show_icons=true&theme=dark&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasreisxavier&show_icons=true&theme=algolia&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Lucasreisxavier&show_icons=true&show_icons=true&theme=algolia&count_private=true" />
 </div>
