@@ -2,7 +2,7 @@
 
 #  Eae, Bem vindo a Rapeize
   <div id="badges">
-  <a href = "https://github.com/Lucasreisxavier">
+  <a href = "https://www.linkedin.com/in/lucas-reis-8288531a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -26,6 +26,6 @@ Sou desenvolvedor Full-stack porem Amante de Back-end, sempre tentando criar uma
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasreisxavier&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Lucasreisxavier&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasreisxavier&show_icons=true&theme=dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Lucasreisxavier&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
